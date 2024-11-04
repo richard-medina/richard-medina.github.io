@@ -1,4 +1,4 @@
-Education :"
+Education :
 =======
 
 **University Paris Dauphine - PSL, Paris, France.**
