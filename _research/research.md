@@ -48,5 +48,5 @@ Participation on Conferences, Workshops and Schools :
 
 1. Jun. 2019 	CIMPA Research Summer School, At University of La Habana, Cuba.
 
-    Mar. 2019 	III Winter School in Computer Science, At University of La Habana, Cuba.
+1. Mar. 2019 	III Winter School in Computer Science, At University of La Habana, Cuba.
 
