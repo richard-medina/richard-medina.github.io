@@ -26,8 +26,8 @@ main:
   - title: "Resumé"
     url: /files/Academic_CV.pdf
             
-  - title: "Blog Posts"
-    url: /year-archive/
+  #- title: "Blog Posts"
+  #  url: /year-archive/
     
   #- title: "Guide"
   #  url: /markdown/
