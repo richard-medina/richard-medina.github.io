@@ -18,17 +18,17 @@ I'm particularly interested in kinetic equations on spatially bounded domains, l
 
 Education :
 
-1. University Paris Dauphine - PSL, Paris, France.
+**University Paris Dauphine - PSL, Paris, France.**
 
   * Ph.D. Mathematics *09/2022 - present*.
   * Thesis: Hypocoercivity and geometric confinement.
   * Advisors: Kleber Carrapatoso & Stéphane Mischler.
 
-2. University Paris Dauphine - PSL, Paris, France.
+**University Paris Dauphine - PSL, Paris, France.**
 
   * Master degree on Applied and Theoretical Mathematics *09/2021 - 06/2022*.
 
-3. University of La Habana, La Habana, Cuba.
+**University of La Habana, La Habana, Cuba.**
 
   * BS Mathematics *09/2016 - 11/2020*.
   * Thesis: Random Schrödinger operators in a 2D scheme.
