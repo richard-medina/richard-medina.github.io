@@ -20,17 +20,17 @@ Education :
 
 1. University Paris Dauphine - PSL, Paris, France.
 
-  * Ph.D. Mathematics 09/2022 - present.
+  * Ph.D. Mathematics *09/2022 - present*.
   * Thesis: Hypocoercivity and geometric confinement.
   * Advisors: Kleber Carrapatoso & Stéphane Mischler.
 
-1. University Paris Dauphine - PSL, Paris, France.
+2. University Paris Dauphine - PSL, Paris, France.
 
-  * Master degree on Applied and Theoretical Mathematics 09/2021 - 06/2022.
+  * Master degree on Applied and Theoretical Mathematics *09/2021 - 06/2022*.
 
-1. University of La Habana, La Habana, Cuba.
+3. University of La Habana, La Habana, Cuba.
 
-  * BS Mathematics 09/2016 - 11/2020.
+  * BS Mathematics *09/2016 - 11/2020*.
   * Thesis: Random Schrödinger operators in a 2D scheme.
   * Advisors: Rita Roldán Inguanzo & Laure Dumaz.
   * Awarded with the Scientific Merit Award.
