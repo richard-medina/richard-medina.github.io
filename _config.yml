@@ -119,7 +119,7 @@ staticman:
 atom_feed:
   hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
-
+minimal_mistakes_skin    : "dark"
 
 # SEO Related
 google_site_verification :
