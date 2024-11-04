@@ -14,9 +14,9 @@ My main field of study is the analysis of Partial Differential Equations (PDEs),
 
 I'm particularly interested in kinetic equations on spatially bounded domains, like the kinetic Fokker-Planck equation, the Boltzmann equation, and the Landau equation.
 
-==========
 
 Education :
+==========
 
 **University Paris Dauphine - PSL, Paris, France.**
 
@@ -35,9 +35,10 @@ Education :
   * Advisors: Rita Roldán Inguanzo & Laure Dumaz.
   * Awarded with the Scientific Merit Award.
 
-===========
+
 
 Professional experience :
+===========
 
 1. 2021 Master Intership, CEREMADE, Université Paris Dauphine - PSL.
 
@@ -47,9 +48,10 @@ Professional experience :
 
 1. 2017 - 2019 Undergraduate Teaching Assistant, Dept. of Mathematics, University of La Habana.
 
-=============
+
 
 Awards, Fellowships & Grants :
+=============
 
 1. 2022 MathInParis2020 COFUND Fellowship, Fondation de Sciences Mathématiques de Paris (Ph.D. Grant).
 
@@ -57,14 +59,14 @@ Awards, Fellowships & Grants :
 
 1. 2020 Prize to the Scientific Merit 2020, University of La Habana.
 
-==============
 
-Coding skills: LATEX (intermediate level), C# (beginning level), WOLFRAM MATHEMATICA (intermediate level) and PYTHON (intermediate level).
 
-=============
+**Coding skills:** LATEX (intermediate level), C# (beginning level), WOLFRAM MATHEMATICA (intermediate level) and PYTHON (intermediate level).
 
-Language proficiencies: Español (native), English (bilingual proficiency), Français (bilingual proficiency).
 
-===============
 
-Hobbies: Camping, cycling, hiking, climbing, reading.
+**Language proficiencies:** Español (native), English (bilingual proficiency), Français (bilingual proficiency).
+
+
+
+**Hobbies:** Camping, cycling, hiking, climbing, reading.
