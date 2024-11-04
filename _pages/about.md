@@ -40,24 +40,24 @@ Education :
 Professional experience :
 ===========
 
-1. 2021 Master Intership, CEREMADE, Université Paris Dauphine - PSL.
+* 2021 Master Intership, CEREMADE, Université Paris Dauphine - PSL.
 
-1. 2020 - 2021 Graduate Teaching Assistant, Dept. of Mathematics, University of La Habana.
+* 2020 - 2021 Graduate Teaching Assistant, Dept. of Mathematics, University of La Habana.
 
-1. 2020 Intership, CEREMADE, Université Paris Dauphine - PSL.
+* 2020 Intership, CEREMADE, Université Paris Dauphine - PSL.
 
-1. 2017 - 2019 Undergraduate Teaching Assistant, Dept. of Mathematics, University of La Habana.
+* 2017 - 2019 Undergraduate Teaching Assistant, Dept. of Mathematics, University of La Habana.
 
 
 
 Awards, Fellowships & Grants :
 =============
 
-1. 2022 MathInParis2020 COFUND Fellowship, Fondation de Sciences Mathématiques de Paris (Ph.D. Grant).
+* 2022 MathInParis2020 COFUND Fellowship, Fondation de Sciences Mathématiques de Paris (Ph.D. Grant).
 
-1. 2021 PSL PhD Track Grant 2021, Université Paris Sciences et Lettres.
+* 2021 PSL PhD Track Grant 2021, Université Paris Sciences et Lettres.
 
-1. 2020 Prize to the Scientific Merit 2020, University of La Habana.
+* 2020 Prize to the Scientific Merit 2020, University of La Habana.
 
 
 
