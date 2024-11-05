@@ -10,7 +10,7 @@
 locale                   : "en-US" 
 title                    : "Richard MEDINA RODRIGUEZ"
 title_separator          : "-"
-name                     : &name "Richard MEDINA RODRIGUEZ"
+name                     : &name "Richard's homepage"
 description              : &description "Personal website"
 url                      : https://richard-medina.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
