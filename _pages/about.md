@@ -15,6 +15,4 @@ My main field of study is the analysis of Partial Differential Equations (PDEs),
 I'm particularly interested in kinetic equations on spatially bounded domains, like the kinetic Fokker-Planck equation, the Boltzmann equation, and the Landau equation.
 
 
-**Professional address:**
-CEREMADE (Centre de Recherche en Mathématiques de la Décision) 
-Place du Maréchal de Lattre de Tassigny - 75775 PARIS Cedex 16  
+**Professional address:** Place du Maréchal de Lattre de Tassigny - 75775 PARIS Cedex 16  
