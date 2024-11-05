@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US" 
-title                    : "Richard MEDINA RODRIGUEZ"
+title                    : "Richard's homepage"
 title_separator          : "-"
-name                     : &name "Richard's homepage"
+name                     : &name "Richard MEDINA RODRIGUEZ"
 description              : &description "Personal website"
 url                      : https://richard-medina.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
