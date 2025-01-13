@@ -121,10 +121,10 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 #uncomment below to change to dark mode
-plugins:
-  - jekyll-remote-theme
-remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+#plugins:
+#  - jekyll-remote-theme
+#remote_theme           : "mmistakes/minimal-mistakes"
+#minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # SEO Related
 google_site_verification :
@@ -188,7 +188,7 @@ exclude:
   - README
   - tmp
   - vendor
-  -assets #remove the comment when changing to dark mode
+  #-assets #remove the comment when changing to dark mode
 keep_files:
   - .git
   - .svn
