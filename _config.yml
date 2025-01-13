@@ -188,7 +188,7 @@ exclude:
   - README
   - tmp
   - vendor
-  #-assets #remove the comment when changing to dark mode
+  -assets #remove the comment when changing to dark mode
 keep_files:
   - .git
   - .svn
