@@ -123,7 +123,7 @@ atom_feed:
 plugins:
   - jekyll-remote-theme
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # SEO Related
 google_site_verification :
@@ -187,7 +187,7 @@ exclude:
   - README
   - tmp
   - vendor
-  - assets
+  #- assets
 keep_files:
   - .git
   - .svn
