@@ -16,5 +16,9 @@ I'm particularly interested in kinetic equations on spatially bounded domains, l
 
 
 **Professional address:** 
-CEREMADE (Centre de Recherche en Mathématiques de la Décision) 
+Bureau F505, Université Paris Dauphine - PSL
 Place du Maréchal de Lattre de Tassigny - 75775 PARIS Cedex 16  
+
+**Professional email:** richard.medina-rodriguez@dauphine.psl.eu
+
+**Personal email:** r.medina2540@gmail.com
