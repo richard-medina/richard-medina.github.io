@@ -16,8 +16,8 @@ I'm particularly interested in kinetic equations on spatially bounded domains, l
 
 
 **Professional address:** 
-Bureau F505, Université Paris Dauphine - PSL
-Place du Maréchal de Lattre de Tassigny - 75775 PARIS Cedex 16  
+Bureau F505, Université Paris Dauphine - PSL,
+Place du Maréchal de Lattre de Tassigny - 75775 PARIS Cedex 16. 
 
 **Professional email:** richard.medina-rodriguez@dauphine.psl.eu
 
