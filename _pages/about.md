@@ -9,21 +9,22 @@ redirect_from:
 
 Hi there, I'm Richard, a mathematician interested in the analysis of Partial Differential Equations (PDEs) and their applications in physical and biological systems. My main interests are:
 
-
 <div style="padding:10px; background:transparent;">
 <ul>
-  <li>the kinetic theory of rarefied gases,</li>
-  <li>the study of problems set in bounded domains presenting heat thermostats and their qualitative effects on the equilibrium,</li>
-  <li>PDEs involving the kinetic Fokker-Planck equation, the Boltzmann equation, the Landau equation and the Vlasov-Poisson system of equations.</li>
+  <li>Kinetic theory of rarefied gases</li>
+  <li>Problems set in bounded domains presenting heat thermostats and their qualitative effects on the equilibrium</li>
+  <li>PDEs involving the kinetic Fokker-Planck, Boltzmann, Landau, and Vlasov-Poisson equations</li>
 </ul>
 </div>
-
 
 <hr>
 
 I’m currently an ATER at the MIDO department, Université Paris Dauphine – PSL, seeking a postdoctoral position to continue my research on the mathematical problems arising from statistical physics and collaborate on interdisciplinary projects.
 
-I did my Ph.D. at [CEREMADE, Université Paris Dauphine - PSL](https://www.ceremade.dauphine.fr/) under the supervision of Professors [Kleber Carrapatoso](https://carrapatoso.perso.math.cnrs.fr/) and [Stéphane Mischler](https://www.ceremade.dauphine.fr/~mischler/index.html).
+I completed my Ph.D. at [CEREMADE, Université Paris Dauphine - PSL](https://www.ceremade.dauphine.fr/) under the supervision of Professors [Kleber Carrapatoso](https://carrapatoso.perso.math.cnrs.fr/) and [Stéphane Mischler](https://www.ceremade.dauphine.fr/~mischler/index.html).
+
+
+
 
 
 **Professional address:** 
