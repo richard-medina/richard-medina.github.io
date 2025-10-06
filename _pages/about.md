@@ -9,13 +9,13 @@ redirect_from:
 
 Hi there, I'm Richard, a mathematician interested in the analysis of Partial Differential Equations (PDEs) and their applications in physical and biological systems. My main interests are:
 
-<div style="padding:8px; background:transparent;">
+<!--<div style="padding:8px; background:transparent;">-->
 <ul>
   <li>Kinetic theory of rarefied gases</li>
   <li>Problems set in bounded domains presenting heat thermostats and their qualitative effects on the equilibrium</li>
   <li>PDEs involving the kinetic Fokker-Planck, Boltzmann, Landau, and Vlasov-Poisson equations</li>
 </ul>
-</div>
+<!--</div>-->
 
 <hr>
 
@@ -33,4 +33,4 @@ Place du Maréchal de Lattre de Tassigny - 75775 PARIS Cedex 16.
 
 **Professional email:** richard.medina-rodriguez@dauphine.psl.eu
 
-**Personal email:** r.medina2540@gmail.com
+<!--**Personal email:** r.medina2540@gmail.com-->
