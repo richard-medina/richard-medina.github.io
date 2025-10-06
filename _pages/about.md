@@ -7,8 +7,15 @@ redirect_from:
   - /about.html
 ---
 
+Hi there, I'm Richard MEDINA RODRIGUEZ, a mathematician interested in the analysis of Partial Differential Equations (PDEs) and their applications in physical and biological systems. My main research interests are :
+-Kinetic theory of rarefied gases,
+-Bounded domains presenting heat thermostats and their qualitative effects on the equilibrium,
+-PDEs involving the kinetic Fokker-Planck equation, the Boltzmann equation, the Landau equation and the Vlasov-Poisson system. 
+-Hypocoercivity theory and Krein-Rutmann-Doblin-Harris theory.
 
-I'm a Ph.D. student at the [CEREMADE, Université Paris Dauphine - PSL](https://www.ceremade.dauphine.fr/) under the supervision of Professors [Kleber Carrapatoso](https://carrapatoso.perso.math.cnrs.fr/) and [Stéphane Mischler](https://www.ceremade.dauphine.fr/~mischler/index.html).
+
+I did my Ph.D. at [CEREMADE, Université Paris Dauphine - PSL](https://www.ceremade.dauphine.fr/) under the supervision of Professors [Kleber Carrapatoso](https://carrapatoso.perso.math.cnrs.fr/) and [Stéphane Mischler](https://www.ceremade.dauphine.fr/~mischler/index.html).
+
 
 My main field of study is the analysis of Partial Differential Equations (PDEs), particularly the issues of well-posedness and long-time behavior of the solutions to such problems.
 
