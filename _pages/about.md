@@ -15,7 +15,7 @@ My main research interests are :
 
 -Bounded domains presenting heat thermostats and their qualitative effects on the equilibrium,
 
--PDEs involving the kinetic Fokker-Planck equation, the Boltzmann equation, the Landau equation and the Vlasov-Poisson system. 
+-PDEs involving the kinetic Fokker-Planck equation, the Boltzmann equation, the Landau equation and the Vlasov-Poisson system of equations. 
 
 
 I’m currently an ATER at the MIDO department, Université Paris Dauphine – PSL, seeking a postdoctoral position to continue my research on the mathematical problems arising from statistical physics and collaborate on interdisciplinary projects.
