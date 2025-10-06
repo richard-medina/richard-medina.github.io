@@ -31,6 +31,6 @@ I completed my Ph.D. at [CEREMADE, Université Paris Dauphine - PSL](https://www
 Bureau F505, Université Paris Dauphine - PSL,
 Place du Maréchal de Lattre de Tassigny - 75775 PARIS Cedex 16. 
 
-**Professional email:** richard.medina-rodriguez@dauphine.psl.eu
+**Professional email:** <a href="mailto:richard.medina-rodriguez@dauphine.psl.eu">richard.medina-rodriguez@dauphine.psl.eu</a> 
 
 <!--**Personal email:** r.medina2540@gmail.com-->
