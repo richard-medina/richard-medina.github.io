@@ -19,7 +19,7 @@ Hi there, I'm Richard MEDINA RODRIGUEZ, a mathematician interested in the analys
 
 
 
-I'm currently in the position of Temporary Teaching and Research Fellow (ATER) in the MIDO departement at the Université Paris Dauphine - PSL, and I'm looking to pursue a postdoctoral position to further advance my research in the solutions of problems from statistical physics and contribute in collaborative projects. 
+I’m currently an ATER at the MIDO department, Université Paris Dauphine – PSL, seeking a postdoctoral position to continue my research on the mathematical problems arising from statistical physics and collaborate on interdisciplinary projects.
 
 I did my Ph.D. at [CEREMADE, Université Paris Dauphine - PSL](https://www.ceremade.dauphine.fr/) under the supervision of Professors [Kleber Carrapatoso](https://carrapatoso.perso.math.cnrs.fr/) and [Stéphane Mischler](https://www.ceremade.dauphine.fr/~mischler/index.html).
 
