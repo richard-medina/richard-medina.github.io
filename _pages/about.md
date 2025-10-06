@@ -9,7 +9,7 @@ redirect_from:
 
 Hi there, I'm Richard, a mathematician interested in the analysis of Partial Differential Equations (PDEs) and their applications in physical and biological systems. My main interests are:
 
-<div style="padding:10px; background:transparent;">
+<div style="padding:8px; background:transparent;">
 <ul>
   <li>Kinetic theory of rarefied gases</li>
   <li>Problems set in bounded domains presenting heat thermostats and their qualitative effects on the equilibrium</li>
