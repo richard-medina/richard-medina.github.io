@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there, I'm Richard MEDINA RODRIGUEZ, a mathematician interested in the analysis of Partial Differential Equations (PDEs) and their applications in physical and biological systems. 
-
-My main research interests are :
+Hi there, I'm Richard, a mathematician interested in the analysis of Partial Differential Equations (PDEs) and their applications in physical and biological systems. My main research interests are :
 
 -Kinetic theory of rarefied gases,
 
