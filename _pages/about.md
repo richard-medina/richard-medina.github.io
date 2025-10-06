@@ -9,12 +9,17 @@ redirect_from:
 
 Hi there, I'm Richard, a mathematician interested in the analysis of Partial Differential Equations (PDEs) and their applications in physical and biological systems. My main interests are:
 
--Kinetic theory of rarefied gases,
 
--Bounded domains presenting heat thermostats and their qualitative effects on the equilibrium,
+<div style="padding:10px; background:#f0f0f0;">
+<ul>
+  <li>Kinetic theory of rarefied gases,</li>
+  <li>Bounded domains presenting heat thermostats and their qualitative effects on the equilibrium,</li>
+  <li>PDEs involving the kinetic Fokker-Planck equation, the Boltzmann equation, the Landau equation and the Vlasov-Poisson system of equations.</li>
+</ul>
+</div>
 
--PDEs involving the kinetic Fokker-Planck equation, the Boltzmann equation, the Landau equation and the Vlasov-Poisson system of equations. 
 
+<hr>
 
 I’m currently an ATER at the MIDO department, Université Paris Dauphine – PSL, seeking a postdoctoral position to continue my research on the mathematical problems arising from statistical physics and collaborate on interdisciplinary projects.
 
