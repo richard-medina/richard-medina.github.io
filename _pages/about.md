@@ -12,8 +12,8 @@ Hi there, I'm Richard, a mathematician interested in the analysis of Partial Dif
 
 <div style="padding:10px; background:transparent;">
 <ul>
-  <li>Kinetic theory of rarefied gases,</li>
-  <li>Bounded domains presenting heat thermostats and their qualitative effects on the equilibrium,</li>
+  <li>the kinetic theory of rarefied gases,</li>
+  <li>the study of problems set in bounded domains presenting heat thermostats and their qualitative effects on the equilibrium,</li>
   <li>PDEs involving the kinetic Fokker-Planck equation, the Boltzmann equation, the Landau equation and the Vlasov-Poisson system of equations.</li>
 </ul>
 </div>
