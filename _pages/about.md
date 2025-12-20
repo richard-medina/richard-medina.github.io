@@ -21,7 +21,7 @@ Hi there, I'm Richard, a mathematician interested in the analysis of Partial Dif
 
 I’m currently a Teaching and Research Fellow (ATER) at the Université Paris Dauphine – PSL, seeking a postdoctoral position to continue my research on the mathematical problems arising from statistical physics and collaborate on interdisciplinary projects.
 
-I completed my Ph.D. in the month of December 2025 at the [CEREMADE, Université Paris Dauphine - PSL](https://www.ceremade.dauphine.fr/), under the supervision of Professors [Kleber Carrapatoso](https://carrapatoso.perso.math.cnrs.fr/) and [Stéphane Mischler](https://www.ceremade.dauphine.fr/~mischler/index.html).
+I completed my Ph.D. in December of 2025 at the [CEREMADE, Université Paris Dauphine - PSL](https://www.ceremade.dauphine.fr/), under the supervision of Professors [Kleber Carrapatoso](https://carrapatoso.perso.math.cnrs.fr/) and [Stéphane Mischler](https://www.ceremade.dauphine.fr/~mischler/index.html).
 
 
 
