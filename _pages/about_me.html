@@ -8,68 +8,58 @@ author_profile: true
   .cv-section {
     max-width: 950px;
     margin: 20px auto;
+    line-height: 1.5;
   }
 
+  /* Grid layout for alignment */
   .cv-list {
     display: grid;
     grid-template-columns: 180px 1fr;
-    gap: 12px 30px;
+    gap: 10px 30px;
+    margin-top: 10px;
   }
 
   /* Date/Label Column */
   .cv-list dt {
     font-weight: 600;
-    color: #666;
+    color: #666; 
     text-align: right;
     font-size: 0.95rem;
     padding-top: 2px;
   }
 
+  /* Content Column */
   .cv-list dd {
-    margin: 0 0 0px 0;
+    margin: 0 0 15px 0;
   }
 
-  /* Text formatting */
   .entry-title {
     font-size: 1.05rem;
-    margin-bottom: 5px;
-  }
-
-  .institution {
-    font-weight: normal;
-    color: #555;
-  }
-
-  .cv-list ul {
-    margin: 8px 0 0 0;
-    padding-left: 20px;
-    list-style-type: disc;
-    color: #444;
-  }
-
-  .cv-list li {
     margin-bottom: 4px;
   }
 
-/* This uses the browser's default blue and purple */
-  .cv-list a {
-    color: -webkit-link; /* Standard browser blue */
-    text-decoration: underline;
+  /* Bullet points */
+  .cv-list ul {
+    margin: 5px 0 0 0;
+    padding-left: 20px;
+    list-style-type: disc;
   }
 
+  /* RESTORE THEME LINK COLORS */
+  /* This forces the links to stay the same color even if visited */
+  .cv-list a, 
   .cv-list a:visited {
-    color: purple; /* Standard visited link color */
+    color: inherit; /* Tells the link to use the parent text color */
+    text-decoration: underline; /* Standard underline */
   }
 
-  .cv-list a:hover {
-    color: red; /* Standard hover behavior (optional, or leave as blue) */
-    text-decoration: underline;
-  }
+  /* If your theme used a specific blue, 'inherit' will use that. 
+     If they still look black, you can use 'color: #0056b3;' here instead. */
 
   hr {
     border: 0;
-    border-top: 1px solid #eee;
-    margin: 40px 0;
+    border-top: 1px solid #ddd;
+    margin: 30px 0;
   }
 </style>
 
