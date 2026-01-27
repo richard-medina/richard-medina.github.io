@@ -11,7 +11,6 @@ author_profile: true
     line-height: 1.5;
   }
 
-  /* Grid layout for alignment */
   .cv-list {
     display: grid;
     grid-template-columns: 180px 1fr;
@@ -19,7 +18,6 @@ author_profile: true
     margin-top: 10px;
   }
 
-  /* Date/Label Column */
   .cv-list dt {
     font-weight: 600;
     color: #666; 
@@ -28,7 +26,6 @@ author_profile: true
     padding-top: 2px;
   }
 
-  /* Content Column */
   .cv-list dd {
     margin: 0 0 15px 0;
   }
@@ -38,23 +35,22 @@ author_profile: true
     margin-bottom: 4px;
   }
 
-  /* Bullet points */
   .cv-list ul {
     margin: 5px 0 0 0;
     padding-left: 20px;
     list-style-type: disc;
   }
 
-  /* RESTORE THEME LINK COLORS */
-  /* This forces the links to stay the same color even if visited */
+  /* FIXED LINK COLORS */
   .cv-list a, 
   .cv-list a:visited {
-    color: inherit; /* Tells the link to use the parent text color */
-    text-decoration: underline; /* Standard underline */
+    color: #0056b3; 
+    text-decoration: underline;
   }
 
-  /* If your theme used a specific blue, 'inherit' will use that. 
-     If they still look black, you can use 'color: #0056b3;' here instead. */
+  .cv-list a:hover {
+    color: #004494;
+  }
 
   hr {
     border: 0;
@@ -62,6 +58,7 @@ author_profile: true
     margin: 30px 0;
   }
 </style>
+
 
 <div class="cv-section">
 
