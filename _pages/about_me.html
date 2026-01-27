@@ -1,67 +1,37 @@
-<!--
-For Education / Experience
-<h2 class="section-title">Education</h2>
-<dl class="grid-layout">
-  <dt>2022 – 2025</dt>
-  <dd>
-    <span class="main-text">Ph.D. in Mathematics</span>, 
-    <span class="sub-text">Université Paris Dauphine</span>
-    <ul>
-      <li>Thesis: Hypocoercivity and geometric confinement.</li>
-    </ul>
-  </dd>
-</dl>
-
-
-For Publications or Talks
-<h2 class="section-title">Publications</h2>
-<dl class="grid-layout">
-  <dt>2024</dt>
-  <dd>
-    <span class="main-text">On the convergence of kinetic equations</span>. 
-    <span class="sub-text">Journal of Mathematical Physics.</span>
-    <a href="#">[Link to PDF]</a>
-  </dd>
-</dl>
-
-
-For Skills or Languages
-<h2 class="section-title">Technical Skills</h2>
-<dl class="grid-layout">
-  <dt>Coding</dt>
-  <dd><span class="main-text">Python, MATLAB, LaTeX</span></dd>
-
-  <dt>Languages</dt>
-  <dd><span class="main-text">Spanish (Native), English (Fluent), French (Professional)</span></dd>
-</dl>
--->
-
-
 ---
 layout: archive
 permalink: /about_me/
 author_profile: true
 ---
 
-
-<h1> <u>Education & Academic Appointements:</u></h1>
 <style>
   .cv-section {
     max-width: 950px;
-    margin: 40px auto;
+    margin: 20px auto;
     font-family: 'Inter', -apple-system, system-ui, sans-serif;
     color: #333;
     line-height: 1.5;
   }
 
-  .cv-list {
-    display: grid;
-    /* Date column is right-aligned, content column is flexible */
-    grid-template-columns: 180px 1fr;
-    gap: 15px 30px;
+  /* Header Styles */
+  .section-title {
+    font-size: 1.5rem;
+    color: #000;
+    margin: 40px 0 20px 0;
+    text-decoration: none;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 5px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
   }
 
-  /* Align dates to the right */
+  .cv-list {
+    display: grid;
+    grid-template-columns: 180px 1fr;
+    gap: 12px 30px;
+  }
+
+  /* Date/Label Column */
   .cv-list dt {
     font-weight: 600;
     color: #666;
@@ -71,12 +41,12 @@ author_profile: true
   }
 
   .cv-list dd {
-    margin: 0 0 8px 0;
+    margin: 0 0 12px 0;
   }
 
-  /* Keeps Title and University on the same line */
+  /* Text formatting */
   .entry-title {
-    font-size: 1.1rem;
+    font-size: 1.05rem;
     margin-bottom: 5px;
   }
 
@@ -88,7 +58,7 @@ author_profile: true
   .cv-list ul {
     margin: 8px 0 0 0;
     padding-left: 20px;
-    list-style-type: disc; /* Professional academic look */
+    list-style-type: disc;
     color: #444;
   }
 
@@ -104,57 +74,46 @@ author_profile: true
   .cv-list a:hover {
     text-decoration: underline;
   }
+
+  hr {
+    border: 0;
+    border-top: 1px solid #eee;
+    margin: 40px 0;
+  }
 </style>
-<!--You can now copy and paste this block for every section of your CV. Just change the header and the data.-->
-
-
 
 <div class="cv-section">
+
+  <h2 class="section-title">Education & Academic Appointments</h2>
   <dl class="cv-list">
-    
     <dt>Sept. 2025 – present</dt>
     <dd>
       <div class="entry-title"><strong>Teaching and Research Fellow</strong>, <span class="institution">Université Paris Dauphine - PSL, France</span></div>
-      <!--<ul>
-        <li>Research on kinetic theory; teaching assistant for mathematics courses (real analysis and numerical methods).</li>
-      </ul>-->
+      <ul>
+        <li>Research on kinetic theory; teaching assistant for mathematics courses.</li>
+      </ul>
     </dd>
 
     <dt>09/2022 – 12/2025</dt>
     <dd>
-      <div class="entry-title"><strong>PhD in Mathematics</strong>, <span class="institution"> <a href="https://www.ceremade.dauphine.fr/">CEREMADE</a>, Université Paris Dauphine - PSL, with <a href="https://carrapatoso.perso.math.cnrs.fr/">Kleber Carrapatoso</a> & <a href="https://www.ceremade.dauphine.fr/~mischler/index.html">Stéphane Mischler</a> </span></div>
-      <!--<ul>
-        <li>Thesis title: <a href="https://richard-medina.github.io/files/thesis_RMEDINA_FINAL.pdf">Hypocoercivity and geometric confinement.</a></li>
-        <li>PhD Advisors: <a href="https://carrapatoso.perso.math.cnrs.fr/">Kleber Carrapatoso</a> & <a href="https://www.ceremade.dauphine.fr/~mischler/index.html">Stéphane Mischler</a></li>
-        <li>Defense date: December 18th 2025</li>
-        <li>Thesis Jury: <a href="https://lmbp.uca.fr/~bagland/">V. Bagland</a>, <a href="https://www.ceremade.dauphine.fr/~bouin/">É. Bouin</a>, <a href="https://canizo.org/">J. A. Cañizo</a>, <a href="https://carrapatoso.perso.math.cnrs.fr/">K. Carrapatoso</a>, <a href="https://lmbp.uca.fr/~guillin/">A. Guillin</a>, <a href="https://www.math.sciences.univ-nantes.fr/~herau/index.php">F. Hérau</a> & <a href="https://www.ceremade.dauphine.fr/~mischler/index.html">S. Mischler</a></li>
-      </ul>-->
-    </dd>
-
-    <!--<dt>2022</dt>
-    <dd>
-      <div class="entry-title"><strong>Master Internship</strong>, <span class="institution">CEREMADE, Université Paris Dauphine - PSL, France</span></div>
+      <div class="entry-title"><strong>PhD in Mathematics</strong>, <span class="institution"><a href="https://www.ceremade.dauphine.fr/">CEREMADE</a>, Université Paris Dauphine - PSL</span></div>
       <ul>
-        <li>Advisors: Kleber Carrapatoso & Stéphane Mischler.</li>
-        <li>Research Project: Extending hypocoercivity techniques for linearized kinetic equations to non-smooth bounded domains.</li>
+        <li>With <a href="https://carrapatoso.perso.math.cnrs.fr/">K. Carrapatoso</a> & <a href="https://www.ceremade.dauphine.fr/~mischler/index.html">S. Mischler</a></li>
+        <li>Thesis title: <a href="https://richard-medina.github.io/files/thesis_RMEDINA_FINAL.pdf">Hypocoercivity and geometric confinement.</a></li>
       </ul>
-    </dd>-->
+    </dd>
 
     <dt>2021 – 2022</dt>
     <dd>
-      <div class="entry-title"><strong>Master of Science in Applied and Theoretical Mathematics</strong>, <span class="institution">Université Paris Dauphine - PSL, France</span></div>
+      <div class="entry-title"><strong>M.Sc. in Applied and Theoretical Mathematics</strong>, <span class="institution">Université Paris Dauphine - PSL, France</span></div>
       <ul>
         <li>With Honors (Mention Bien)</li>
-        <!--<li>Master’s dissertation: Hypocoercivity and geometric confinement, with <a href="https://carrapatoso.perso.math.cnrs.fr/">Kleber Carrapatoso</a> & <a href="https://www.ceremade.dauphine.fr/~mischler/index.html">Stéphane Mischler</a> </li>-->
       </ul>
     </dd>
 
     <dt>2020 – 2021</dt>
     <dd>
-      <div class="entry-title"><strong>Assistant Professor</strong>, <span class="institution"> <em>Department of Mathematics</em>, Université Paris Dauphine - PSL, France</span></div>
-      <!--<ul>
-        <li>Research on functional analysis and PDEs; teaching assistant for mathematics courses (real and complex analysis).</li>
-      </ul>-->
+      <div class="entry-title"><strong>Assistant Professor</strong>, <span class="institution">Université Paris Dauphine - PSL, France</span></div>
     </dd>
 
     <dt>2016 – 2020</dt>
@@ -162,81 +121,63 @@ author_profile: true
       <div class="entry-title"><strong>Bachelor in Mathematics</strong>, <span class="institution">Universidad de La Habana, Cuba</span></div>
       <ul>
         <li>Summa Cum Laude.</li>
-        <li>Bachelor’s dissertation: Random Schrödinger operators in a 2D scheme, with <a href="https://www.researchgate.net/profile/Rita-Roldan-Inguanzo">Rita Roldán Inguanzo</a> & <a href="https://www.normalesup.org/~dumaz/">Laure Dumaz</a>.</li>
+        <li>Thesis with <a href="#">R. Roldán Inguanzo</a> & <a href="#">L. Dumaz</a>.</li>
       </ul>
     </dd>
-
   </dl>
-</div>
 
+  <hr>
 
+  <h2 class="section-title">Awards, Fellowships & Grants</h2>
+  <dl class="cv-list">
+    <dt>2022</dt>
+    <dd>
+      <div class="entry-title"><strong>MathInParis2020 COFUND Fellowship</strong></div>
+      <span class="institution">PhD grant awarded by the Fondation de Sciences Mathématiques de Paris (FSMP).</span>
+    </dd>
 
- <hr>
-
-
-<!--<h1><u> Awards, Fellowships & Grants:</u></h1>
-<ul>
- <li> 2022. <a href="https://www.sciencesmaths-paris.fr/index.php?option=com_content&view=article&id=132"> MathInParis2020 COFUND Fellowship</a> - PhD grant awarded by the Fondation de Sciences Mathématiques de Paris (FSMP).</li>
- <li> 2021. <a href="https://psl.eu/en/news/call-applications-psl-phd-track-grants-2021"> PSL PhD Track Grant 2021</a> - Master's Excellence Scholarship awarded by the Université Paris Sciences et Lettres</li>
- <li> 2020. <b>Prize for Scientific Merit</b> awarded by the Universidad de La Habana for outstanding scientific work during the Bachelor's studies.</li>
-</ul>-->
-
-<!--<h1 class="section-title">Awards, Fellowships & Grants:</h1>
-<dl class="grid-layout">
-  <dt>2022</dt>
-  <dd><span class="main-text"><a href="https://www.sciencesmaths-paris.fr/index.php?option=com_content&view=article&id=132"> MathInParis2020 COFUND Fellowship</a> - PhD grant awarded by the Fondation de Sciences Mathématiques de Paris (FSMP)</span></dd>
-  
-  <dt>2021</dt>
-  <dd><span class="main-text"> <a href="https://psl.eu/en/news/call-applications-psl-phd-track-grants-2021"> PSL PhD Track Grant 2021</a> - Master's Excellence Scholarship awarded by the Université Paris Sciences et Lettres.</span></dd>
+    <dt>2021</dt>
+    <dd>
+      <div class="entry-title"><strong>PSL PhD Track Grant 2021</strong></div>
+      <span class="institution">Master's Excellence Scholarship awarded by Université PSL.</span>
+    </dd>
 
     <dt>2020</dt>
-  <dd><span class="main-text"> <b>Prize for Scientific Merit</b> awarded by the Universidad de La Habana for outstanding scientific work during the Bachelor's studies.</span></dd>
-</dl>
+    <dd>
+      <div class="entry-title"><strong>Prize for Scientific Merit</strong></div>
+      <span class="institution">Awarded by Universidad de La Habana for outstanding Bachelor's research.</span>
+    </dd>
+  </dl>
 
+  <hr>
 
+  <h2 class="section-title">Organization of Seminars & Conferences</h2>
+  <dl class="cv-list">
+    <dt>Jun. 2024</dt>
+    <dd>
+      <div class="entry-title"><strong>Co-organizer, Young Researchers Days</strong></div>
+      <span class="institution">Domaine de la Tour, France. Three-day conference for PhD students.</span>
+    </dd>
 
-<hr>
+    <dt>2023 – 2024</dt>
+    <dd>
+      <div class="entry-title"><strong>Co-organizer, Young Researchers Seminar</strong></div>
+      <span class="institution">CEREMADE, Université Paris Dauphine - PSL.</span>
+    </dd>
+  </dl>
 
-<h1 class="section-title">Organization of Seminars and Conferences:</h1>
-<dl class="grid-layout">
-  <dt>Jun. 2024</dt>
-  <dd><span class="main-text">Co-organizer of the <a href="https://sites.google.com/view/young-researchers-days/home"> Young Researchers Days</a> conference, held at <em>Domaine de la Tour</em>, Saint-Pierre-Canivet, France. Three-day conference for PhD students to present and discuss their research. Supported by the Dauphine Doctoral School.</span></dd>
-  
-  <dt>2023 - 2024</dt>
-  <dd><span class="main-text"> Co-organizer of the <a href="https://sites.google.com/view/ceremade-yrs"> Young Researchers Seminar</a> at the Université Paris Dauphine - PSL.</span></dd>
-</dl>-->
+  <hr>
 
+  <h2 class="section-title">Skills & Proficiencies</h2>
+  <dl class="cv-list">
+    <dt>Coding</dt>
+    <dd>LaTeX, Python, TikZ/Beamer, C#, Wolfram Mathematica, MATLAB, HTML.</dd>
 
-<!--<h1>
- <u> Organization of Seminars and Conferences:</u>
-</h1>
+    <dt>Languages</dt>
+    <dd>Español (Native), English (Bilingual), Français (Bilingual).</dd>
 
-<ul>
-  <li> 2023 - 2024. Co-organizer of the <a href="https://sites.google.com/view/ceremade-yrs"> Young Researchers Seminar</a> at the Université Paris Dauphine - PSL.</li>
-  <li> Jun. 2024. Co-organizer of the <a href="https://sites.google.com/view/young-researchers-days/home"> Young Researchers Days</a> conference, held at <em>Domaine de la Tour</em>, Saint-Pierre-Canivet, France. Three-day conference for PhD students to present and discuss their research. Supported by the Dauphine Doctoral School.</li>
-</ul>-->
+    <dt>Hobbies</dt>
+    <dd>Cycling, hiking, reading, camping.</dd>
+  </dl>
 
-
-<!--
-
- <hr>
-
-
-<p> <b><u> Coding skills:</u></b> LATEX (advanced), PYTHON (advanced), TikZ/Beamer (intermediary), C# (intermediate), WOLFRAM MATHEMATICA (advanced), MATLAB (intermediate), and HTML (intermediate).
-</p>
-
-<hr>
-
-<p>
- <b><u> Language proficiencies:</u></b> Español (native), English (bilingual proficiency), Français (bilingual proficiency).
-</p>
-
- <hr>
-
-<p>
- <b><u>Hobbies:</u></b> Cycling, hiking, reading, camping.
-</p>
--->
-
-
-
+</div>
