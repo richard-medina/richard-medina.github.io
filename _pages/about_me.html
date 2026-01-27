@@ -4,151 +4,130 @@ permalink: /about_me/
 author_profile: true
 ---
 
+
+<h1> <u>Education & Academic Appointements:</u></h1>
+
 <style>
   .cv-section {
-    max-width: 900px;
+    max-width: 950px;
     margin: 40px auto;
-    font-family: 'Inter', -apple-system, sans-serif; /* Modern, clean font */
-    color: #2c3e50;
-  }
-
-  /* The Container */
-  .cv-list {
-    display: grid;
-    grid-template-columns: 180px 1fr; /* Fixed width for dates, rest for content */
-    gap: 20px 40px;
+    font-family: 'Inter', -apple-system, system-ui, sans-serif;
+    color: #333;
     line-height: 1.5;
   }
 
-  /* The Date (dt) */
+  .cv-list {
+    display: grid;
+    /* Date column is right-aligned, content column is flexible */
+    grid-template-columns: 180px 1fr;
+    gap: 15px 30px;
+  }
+
+  /* Align dates to the right */
   .cv-list dt {
     font-weight: 600;
-    color: #7f8c8d;
-    font-size: 0.9rem;
-    padding-top: 4px; /* Aligns with the first line of text */
+    color: #666;
+    text-align: right;
+    font-size: 0.95rem;
+    padding-top: 2px;
   }
 
-  /* The Content (dd) */
   .cv-list dd {
-    margin: 0;
-    margin-bottom: 30px;
+    margin: 0 0 30px 0;
   }
 
-  .cv-list dd strong {
-    display: block;
+  /* Keeps Title and University on the same line */
+  .entry-title {
     font-size: 1.1rem;
-    color: #000;
-  }
-
-  .cv-list dd em {
-    color: #34495e;
-    font-style: normal;
-    font-weight: 500;
-  }
-
-  /* The Bullet points inside the dd */
-  .cv-list ul {
-    margin: 10px 0 0 0;
-    padding-left: 18px;
-    list-style-type: disc;
-    color: #4b5563;
-  }
-
-  .cv-list li {
     margin-bottom: 5px;
   }
 
-  /* Link Styling */
+  .institution {
+    font-weight: normal;
+    color: #555;
+  }
+
+  .cv-list ul {
+    margin: 8px 0 0 0;
+    padding-left: 20px;
+    list-style-type: square; /* Professional academic look */
+    color: #444;
+  }
+
+  .cv-list li {
+    margin-bottom: 4px;
+  }
+
   .cv-list a {
-    color: #2980b9;
+    color: #0056b3;
     text-decoration: none;
-    border-bottom: 1px solid transparent;
   }
 
   .cv-list a:hover {
-    border-bottom: 1px solid #2980b9;
+    text-decoration: underline;
   }
 </style>
 
 <div class="cv-section">
   <dl class="cv-list">
     
-    <dt>Sept. 2025 – Present</dt>
+    <dt>Sept. 2025 – present</dt>
     <dd>
-      <strong>Teaching and Research Fellow</strong>
-      <em>Université Paris Dauphine - PSL, France</em>
+      <div class="entry-title"><strong>Teaching and Research Fellow</strong>, <span class="institution">Université Paris Dauphine - PSL, France</span></div>
       <ul>
-        <li>Research on kinetic theory.</li>
-        <li>Teaching assistant for real analysis and numerical methods.</li>
+        <li>Research on kinetic theory; teaching assistant for mathematics courses (real analysis and numerical methods).</li>
       </ul>
     </dd>
 
-    <dt>2022 – 2025</dt>
+    <dt>09/2022 – 12/2025</dt>
     <dd>
-      <strong>Ph.D. in Mathematics</strong>
-      <em>Université Paris Dauphine - PSL, France</em>
+      <div class="entry-title"><strong>Ph.D. in Mathematics</strong>, <span class="institution">Université Paris Dauphine - PSL, France</span></div>
       <ul>
-        <li>Thesis: <a href="#">Hypocoercivity and geometric confinement</a>.</li>
+        <li>Thesis title: <a href="https://richard-medina.github.io/files/thesis_RMEDINA_FINAL.pdf">Hypocoercivity and geometric confinement.</a></li>
+        <li>PhD Advisors: <a href="https://carrapatoso.perso.math.cnrs.fr/">Kleber Carrapatoso</a> & <a href="https://www.ceremade.dauphine.fr/~mischler/index.html">Stéphane Mischler</a></li>
+        <li>Defense date: December 18th 2025</li>
+        <li>Thesis Jury: <a href="https://lmbp.uca.fr/~bagland/">V. Bagland</a>, <a href="https://www.ceremade.dauphine.fr/~bouin/">É. Bouin</a>, <a href="https://canizo.org/">J. A. Cañizo</a>, <a href="https://carrapatoso.perso.math.cnrs.fr/">K. Carrapatoso</a>, <a href="https://lmbp.uca.fr/~guillin/">A. Guillin</a>, <a href="https://www.math.sciences.univ-nantes.fr/~herau/index.php">F. Hérau</a> & <a href="https://www.ceremade.dauphine.fr/~mischler/index.html">S. Mischler</a></li>
+      </ul>
+    </dd>
+
+    <dt>2022</dt>
+    <dd>
+      <div class="entry-title"><strong>Master Internship</strong>, <span class="institution">CEREMADE, Université Paris Dauphine - PSL, France</span></div>
+      <ul>
         <li>Advisors: Kleber Carrapatoso & Stéphane Mischler.</li>
+        <li>Research Project: Extending hypocoercivity techniques for linearized kinetic equations to non-smooth bounded domains.</li>
+      </ul>
+    </dd>
+
+    <dt>2021 – 2022</dt>
+    <dd>
+      <div class="entry-title"><strong>Master of Science in Applied and Theoretical Mathematics</strong>, <span class="institution">Université Paris Dauphine - PSL, France</span></div>
+      <ul>
+        <li>With Honors (Mention Bien)</li>
+      </ul>
+    </dd>
+
+    <dt>2020 – 2021</dt>
+    <dd>
+      <div class="entry-title"><strong>Assistant Professor</strong>, <span class="institution">Department of Mathematics, Université Paris Dauphine - PSL, France</span></div>
+      <ul>
+        <li>Research on functional analysis and PDEs; teaching assistant for mathematics courses (real and complex analysis).</li>
+      </ul>
+    </dd>
+
+    <dt>2016 – 2020</dt>
+    <dd>
+      <div class="entry-title"><strong>Bachelor in Mathematics</strong>, <span class="institution">Universidad de La Habana, Cuba</span></div>
+      <ul>
+        <li>Summa Cum Laude.</li>
+        <li>Bachelor’s dissertation: Random Schrödinger operators in a 2D scheme.</li>
+        <li>Advisors: <a href="#">Rita Roldán Inguanzo</a> & <a href="#">Laure Dumaz</a>.</li>
       </ul>
     </dd>
 
   </dl>
 </div>
 
-
-<dl>
-  <dt>2025 – Present</dt>
-  <dd>Teaching and Research Fellow, Université Paris Dauphine</dd>
-
-  <dt>2022 – 2025</dt>
-  <dd>Ph.D. in Mathematics, Université Paris Dauphine</dd>
-</dl>
-
-
-
-<h1> <u>Education & Academic Appointements:</u></h1>
-
-<dl>
-<dt> Sept. 2025 - present </dt> <dd><strong>Teaching and Research Fellow</strong>, Université Paris Dauphine - PSL, France.
-<ul>
-<li>Research on kinetic theory; teaching assistant for mathematics courses (real analysis and numerical methods).</li>
-</ul>
-</dd>
-
-<h2> 09/2022 - 12/2025. <b>Ph.D. in Mathematics</b>, Université Paris Dauphine - PSL, France.</h2>
-<ul>
- <li> Thesis title: <a href="https://richard-medina.github.io/files/thesis_RMEDINA_FINAL.pdf"> Hypocoercivity and geometric confinement.</a>.</li>
- <li> PhD Advisors: <a href="https://carrapatoso.perso.math.cnrs.fr/"> Kleber Carrapatoso</a> & <a href="https://www.ceremade.dauphine.fr/~mischler/index.html"> Stéphane Mischler</a>.</li>
- <li> Defense date: December 18th 2025
- <li> Thesis Jury:  <a href="https://lmbp.uca.fr/~bagland/"> Véronique Bagland</a>, <a href="https://www.ceremade.dauphine.fr/~bouin/"> Émeric Bouin</a>, <a href="https://canizo.org/"> José A. Cañizo</a>, <a href="https://carrapatoso.perso.math.cnrs.fr/"> Kleber Carrapatoso</a>, <a href="https://lmbp.uca.fr/~guillin/"> Arnaud Guillin</a>, <a href="https://www.math.sciences.univ-nantes.fr/~herau/index.php"> Frédéric Hérau</a> & <a href="https://www.ceremade.dauphine.fr/~mischler/index.html"> Stéphane Mischler</a>.</li>
-</ul>
-
-<b> 2022 </b> Master Intership, <em>CEREMADE</em>, Université Paris Dauphine - PSL, France.</h2>
-<ul>
-<li>Advisors: Kleber Carrapatoso & Stéphane Mischler.</li>
-<li>Research Project: Extending hypocoercivity techniques for linearized kinetic equations to non-
-smooth bounded domains.</li>
-</ul>
-  
-<h2>2021 - 2022 <b>Master of Science in Applied and Theoretical Mathematics</b>, Université Paris Dauphine - PSL, France.</h2>
-<ul>
- <li>With Honors (Mention Bien)</li>
-</ul>
-
-<h2>2020 - 2021 <b>Assistant Professor</b>, <em>Department of Mathematics</em>, Université Paris Dauphine - PSL, France.</h2>
-<ul>
- <li>Research on functional analysis and PDEs; teaching assistant for mathematics courses (real and complex analysis).</li>
-</ul>
-
-<h2>2016 - 2020 <b>Bachelor in Mathematics</b>, Universidad de La Habana, Cuba.</h2>
-<ul>
- <li> Summa Cum Laude.</li>
- <li> Bachelor’s dissertation: Random Schrödinger operators in a 2D scheme.</li>
- <li> Advisors: <a href="https://www.researchgate.net/profile/Rita-Roldan-Inguanzo"> Rita Roldán Inguanzo</a> & <a href="https://www.normalesup.org/~dumaz/"> Laure Dumaz</a>.</li>
-</ul>
-
-</dl>
 
 
  <hr>
