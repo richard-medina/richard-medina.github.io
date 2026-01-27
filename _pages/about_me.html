@@ -51,12 +51,18 @@ author_profile: true
     margin-bottom: 4px;
   }
 
+/* This uses the browser's default blue and purple */
   .cv-list a {
-    color: #0056b3;
-    text-decoration: none;
+    color: -webkit-link; /* Standard browser blue */
+    text-decoration: underline;
+  }
+
+  .cv-list a:visited {
+    color: purple; /* Standard visited link color */
   }
 
   .cv-list a:hover {
+    color: red; /* Standard hover behavior (optional, or leave as blue) */
     text-decoration: underline;
   }
 
