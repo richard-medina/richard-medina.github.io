@@ -10,12 +10,22 @@ redirect_from:
 Hi there, I'm Richard, a mathematician working on the analysis of partial differential equations (PDEs) and their applications to problems arising in statistical physics. My research interests include:
 </p>
 
-<ul>
+<!--<ul>
   <li>Kinetic theory of rarefied gases</li>
   <li>Qualitative effects of heat thermostats on the long-time behaviour of physical systems</li>
   <li>Mean-field limits of fluid–particle systems</li>
   <li>Propagation of chaos for stochastic particle systems in bounded domains</li>
   <li>Numerical methods for kinetic equations</li>
+</ul>-->
+
+<ul>
+  <li><strong>Analysis of partial differential equations</strong> (kinetic equations in non-equilibrium settings, boundary effects, coupled kinetic-fluid systems).</li>
+
+  <li><strong>Stochastic differential equations</strong> (boundary effects, propagation of chaos, mean-field limit).</li>
+
+  <li><strong>Numerical methods for kinetic equations and multiscale systems</strong>.</li>
+
+  <li><strong>Mathematical modeling motivated by applied problems</strong>.</li>
 </ul>
 
 <hr>
