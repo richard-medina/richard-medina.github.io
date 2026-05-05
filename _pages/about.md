@@ -7,14 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-
-Hi there, I'm Richard, a mathematician working on the analysis of Partial Differential Equations (PDEs) and their applications in problems arising from statistical physics. So far, my main interests include:
-
+Hi there, I'm Richard, a mathematician working on the analysis of partial differential equations (PDEs) and their applications to problems arising in statistical physics. My research interests include:
+</p>
 
 <ul>
   <li>Kinetic theory of rarefied gases</li>
-  <li>Qualitative effect of heat thermostats on the long-time behavior of physical systems</li>
-  <li>Mean field limits of fluid-particle systems</li>
+  <li>Qualitative effects of heat thermostats on the long-time behaviour of physical systems</li>
+  <li>Mean-field limits of fluid–particle systems</li>
   <li>Propagation of chaos for stochastic particle systems in bounded domains</li>
   <li>Numerical methods for kinetic equations</li>
 </ul>
@@ -22,7 +21,7 @@ Hi there, I'm Richard, a mathematician working on the analysis of Partial Differ
 <hr>
 
 
-I’m currently a Teaching and Research Fellow (ATER) at the Université Paris Dauphine – PSL, seeking a postdoctoral position to continue my research on the mathematical problems arising from statistical physics and collaborate on interdisciplinary projects.
+I’m currently a Teaching and Research Fellow (A.T.E.R.) at the Université Paris Dauphine – PSL, seeking a postdoctoral position to continue my research on the mathematical problems arising from statistical physics and collaborate on interdisciplinary projects.
 
 I completed my Ph.D. in December of 2025 at the [CEREMADE, Université Paris Dauphine - PSL](https://www.ceremade.dauphine.fr/), under the supervision of Professors [Kleber Carrapatoso](https://carrapatoso.perso.math.cnrs.fr/) and [Stéphane Mischler](https://www.ceremade.dauphine.fr/~mischler/index.html).
 
