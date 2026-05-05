@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 Hi there, I'm Richard, a mathematician working on the analysis of partial differential equations (PDEs) and their applications to problems arising in statistical physics. My research interests include:
-</p>
 
 <!--<ul>
   <li>Kinetic theory of rarefied gases</li>
