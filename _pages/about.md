@@ -20,7 +20,7 @@ Hi there, I'm Richard, a mathematician working on the analysis of partial differ
 <ul>
   <li><strong>Analysis of partial differential equations</strong> (kinetic equations in non-equilibrium settings, boundary effects, coupled kinetic-fluid systems).</li>
 
-  <li><strong>Stochastic differential equations</strong> (boundary effects, propagation of chaos, mean-field limit).</li>
+  <li><strong>Stochastic differential equations</strong> (propagation of chaos, mean-field limits).</li>
 
   <li><strong>Numerical methods for kinetic equations and multiscale systems</strong>.</li>
 
