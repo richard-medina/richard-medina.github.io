@@ -1,47 +1,47 @@
 ---
 permalink: /
-title: "Welcome to my website !"
+title: "Richard Medina Rodríguez"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi there, I'm Richard, a mathematician working on the analysis of partial differential equations (PDEs) and their applications to problems arising in statistical physics. <!--My research interests include:-->
+<p>
+Applied mathematician specialized in partial differential equations (PDEs) and mathematical analysis, with research interests in problems arising from statistical physics and complex systems.
+</p>
 
-<!-- <ul>
-  <li>Kinetic theory of rarefied gases</li>
-  <li>Qualitative effects of heat thermostats on the long-time behaviour of physical systems</li>
-  <li>Mean-field limits of fluid–particle systems</li>
-  <li>Propagation of chaos for stochastic particle systems in bounded domains</li>
-  <li>Numerical methods for kinetic equations</li>
-</ul>-->
+<p>
+Currently Teaching and Research Fellow (A.T.E.R.) at Université Paris Dauphine – PSL.
+</p>
 
-<!-- <ul>
-  <li><strong>Analysis of partial differential equations</strong> (kinetic equations in non-equilibrium settings, boundary effects, coupled kinetic-fluid systems).</li>
+<p>
+I completed my Ph.D. in 2025 at 
+<a href="https://www.ceremade.dauphine.fr/">CEREMADE, Université Paris Dauphine – PSL</a>, 
+under the supervision of Professors 
+<a href="https://carrapatoso.perso.math.cnrs.fr/">Kleber Carrapatoso</a> 
+and 
+<a href="https://www.ceremade.dauphine.fr/~mischler/index.html">Stéphane Mischler</a>.
+</p>
 
-  <li><strong>Stochastic differential equations</strong> (propagation of chaos, mean-field limits).</li>
+<p>
+My work focuses on the analysis of PDEs, long-time behavior of complex systems, and problems motivated by statistical physics.
+</p>
 
-  <li><strong>Numerical methods for kinetic equations and multiscale systems</strong>.</li>
-
-  <li><strong>Mathematical modeling motivated by applied problems</strong>.</li>
-</ul>-->
+<p>
+Interested in scientific computing, technically challenging quantitative problems, and interdisciplinary research environments.
+</p>
 
 <hr>
 
+<p>
+<strong>Email:</strong> 
+<a href="mailto:richard.medina-rodriguez@dauphine.psl.eu">
+richard.medina-rodriguez@dauphine.psl.eu
+</a>
+</p>
 
-I’m currently a Teaching and Research Fellow (A.T.E.R.) at the Université Paris Dauphine – PSL, seeking a postdoctoral position to continue my research on the mathematical problems arising from statistical physics and collaborate on interdisciplinary projects.
-
-I completed my Ph.D. in December of 2025 at the [CEREMADE, Université Paris Dauphine - PSL](https://www.ceremade.dauphine.fr/), under the supervision of Professors [Kleber Carrapatoso](https://carrapatoso.perso.math.cnrs.fr/) and [Stéphane Mischler](https://www.ceremade.dauphine.fr/~mischler/index.html).
-
-
-
-
-
-**Professional address:** 
-Bureau F505, Université Paris Dauphine - PSL,
-Place du Maréchal de Lattre de Tassigny - 75775 PARIS Cedex 16. 
-
-**Professional email:** <a href="mailto:richard.medina-rodriguez@dauphine.psl.eu">richard.medina-rodriguez@dauphine.psl.eu</a> 
-
-<!--**Personal email:** r.medina2540@gmail.com-->
+<p>
+<a href="/files/CV.pdf">Curriculum Vitae</a> | 
+<a href="/publications/">Publications</a>
+</p>
