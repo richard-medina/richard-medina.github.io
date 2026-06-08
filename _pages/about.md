@@ -11,9 +11,13 @@ redirect_from:
 Applied mathematician specialized in partial differential equations (PDEs) and mathematical analysis, with research interests in problems arising from statistical physics and complex systems.
 </p>
 
+<hr>
+
 <p>
 Currently Teaching and Research Fellow (A.T.E.R.) at Université Paris Dauphine – PSL.
 </p>
+
+<hr>
 
 <p>
 I completed my Ph.D. in 2025 at 
@@ -23,6 +27,9 @@ under the supervision of Professors
 and 
 <a href="https://www.ceremade.dauphine.fr/~mischler/index.html">Stéphane Mischler</a>.
 </p>
+
+<hr>
+
 
 <p>
 My work focuses on the analysis of PDEs, long-time behavior of complex systems, and problems motivated by statistical physics.
