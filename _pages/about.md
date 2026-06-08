@@ -45,8 +45,3 @@ Interested in scientific computing, technically challenging quantitative problem
 richard.medina-rodriguez@dauphine.psl.eu
 </a>
 </p>
-
-<p>
-<a href="/files/CV.pdf">Curriculum Vitae</a> | 
-<a href="/publications/">Publications</a>
-</p>
